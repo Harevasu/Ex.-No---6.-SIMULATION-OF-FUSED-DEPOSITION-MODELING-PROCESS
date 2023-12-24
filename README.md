@@ -11,7 +11,7 @@
 ### STEP 4: Click on 'Filament' then filament will be added.
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
-\n
+
 ## OUTPUT:
 ![step 1](https://github.com/Harevasu/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147985044/a1fc9922-738b-42eb-9cfc-09ed28f762b3)
 ![step 2](https://github.com/Harevasu/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147985044/9eae3373-44ab-4953-ab92-dce2c7a5ba37)
@@ -24,3 +24,20 @@
 ### Register Number: 23004355
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
+
+
+
+! dd
+@ rw
+$ rwv
+% gte
+^ grb
+& vf
+* bbgf
++ hj
+< ggh
+> hjg
+? hh
+" ghnxx
+> dfghj
+. jg
