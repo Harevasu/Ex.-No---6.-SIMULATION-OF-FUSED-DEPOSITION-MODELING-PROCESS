@@ -27,13 +27,6 @@
 
 
 
-! dd
-@ rw
-$ rwv
-% gte
-^ grb
-& vf
-* bbgf
 + hj
 < ggh
 > hjg
