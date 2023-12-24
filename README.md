@@ -24,15 +24,3 @@
 ### Register Number: 23004355
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
-
-
-
-
-< ggh
-> hjg
-? hh
-" ghnxx
-> dfghj
-. jg
-- fghjk
-_ cfvgbh
